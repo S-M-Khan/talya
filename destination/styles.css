@@ -627,8 +627,8 @@ video {
   background-color: rgb(248 248 248 / var(--tw-bg-opacity));
 }
 
-.bg-\[url\(\'\.\.\/assets\/hero-image\.jpg\'\)\] {
-  background-image: url('../assets/hero-image.jpg');
+.bg-\[url\(\'\.\.\/assets\/hero-image\.JPG\'\)\] {
+  background-image: url('../assets/hero-image.JPG');
 }
 
 .bg-cover {
