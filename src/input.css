@@ -29,6 +29,10 @@
 
 }
 
+.slide-out {
+    transition: 2s 5s;
+}
+
 /* #open-menu,
 #close-menu,
 #show {

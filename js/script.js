@@ -1,3 +1,4 @@
+
 const open_menu = document.getElementById("open-menu");
 const close_menu = document.getElementById("close-menu");
 const navigation = document.getElementById("navigation");
